@@ -53,7 +53,7 @@
   'simple-import-sort/imports': 'error', // Add rules for simple-import-sort
   'simple-import-sort/exports': 'error', // Add rules for simple-import-sort
 ```
-3. add simple-import sort plugin `in .eslint.cjs`
+3. add simple-import sort plugin in` .eslint.cjs`
 ```
   plugins: [..., 'simple-import-sort':'simpleImportSort']
 ```
