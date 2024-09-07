@@ -29,3 +29,16 @@
 ### setup instruction for taiwind
 
 [Tailwind official instruction doc](https://tailwindcss.com/docs/guides/vite)
+
+### Adding plugins and dependencies
+```
+  npm install @reduxjs/toolkit react-redux react-router-dom react-icons react-chartjs-2 chart.js daisyui axios react-hot-toast @tailwindcss/line-clamp
+```
+
+echo "# learnify-frontend" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/harshits1r8a/learnify-frontend.git
+git push -u origin main
