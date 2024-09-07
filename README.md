@@ -58,7 +58,7 @@
   plugins: [..., 'simple-import-sort':'simpleImportSort']
 ```
 4. To enable auto import sort on file save in vscode
-  - Open s`ettings.json`
+  - Open `settings.json`
   - add the following config
 ```
   "editor.codeActionsOnSave": {
